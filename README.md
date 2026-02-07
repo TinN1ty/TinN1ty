@@ -41,7 +41,7 @@ Specializing in innovative web solutions that merge stunning design with powerfu
 
 ##  Contact
 
-- **Portfolio**: [https://nasreddine-t.netlify.app/](https://nasreddine-t.netlify.app/)
+- **Portfolio**: [https://nasreddine-t.netlify.app/](https://nasreddine-t.site/)
 - **Twitter**: [@TiiNasro](https://x.com/TiiNasro)
 - **Discord**: [394583676517613568](https://discord.com/users/394583676517613568)
 
